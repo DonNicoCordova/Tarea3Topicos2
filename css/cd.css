@@ -1,5 +1,6 @@
-.img-thumbnail {
-    max-width: 20%
+
+.subtitulo {
+    font-size: 2em;
 }
 
 body {
@@ -29,7 +30,7 @@ background-color: #00875c;
 }
 
 .fondo3 {
-color: #333;
+color: rgb(255, 255, 255);
 background-color: #0a07da;
 }
 
